@@ -2,7 +2,7 @@
 Week 7 Project takes an existing code (finPrimes) provided by Professor Gautham Krishnamurthy and modifies the code to be more efficient. 
 
 Code Revision  - 1.1.0
-Audience - Public 
+Audience - Public. 
 The "isPrime" function has been modified to be more efficient. All other functions remain the same.
 
 What Changed -

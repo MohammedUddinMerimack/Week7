@@ -1,5 +1,6 @@
 # Week7
 Week 7 Project takes an existing code (finPrimes) provided by Professor Gautham Krishnamurthy and modifies the code to be more efficient. 
+Generates prime numbers between 2 and 5000 and prints the first 10 prime numbers
 
 Code Revision - 1.0.0 (Initial Release)
 Audience - Public

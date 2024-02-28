@@ -1,3 +1,4 @@
+__version__ = "1.1.0"
 import random
 
 def guess():
@@ -33,4 +34,3 @@ def findPrimes(num):
 
 import cProfile
 cProfile.run('print(findPrimes(500)[:10])')
-
